@@ -7,6 +7,9 @@ pagination(4 contacts per page)
 order by desc
 order bt asc
 order by name
+deleting the contact if the name matches 
+
+
 
 
 I have used PHP and MySQL database 
